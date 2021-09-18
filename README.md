@@ -6,8 +6,6 @@ You need to view the file in "Read Mode" to see the contents properly after down
 /*
 Language: R
 Description: R is a free software environment for statistical computing and graphics.
-Author: Joe Cheng <joe@rstudio.org>
-Website: https://www.r-project.org
 Category: scientific
 */
 ====================================================================================
